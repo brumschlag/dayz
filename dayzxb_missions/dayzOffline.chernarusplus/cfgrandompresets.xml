@@ -6,14 +6,61 @@
 		<item name="Apple" chance="0.07" />
 	</cargo>
 	<cargo chance="0.5" name="foodVillage">
-		<item name="SodaCan_Cola" chance="0.05" />
-		<item name="SodaCan_Pipsi" chance="0.05" />
-		<item name="SodaCan_Spite" chance="0.05" />
-		<item name="TunaCan" chance="0.08" />
-		<item name="SardinesCan" chance="0.12" />
-		<item name="PeachesCan" chance="0.10" />
-		<item name="SpaghettiCan" chance="0.10" />
-		<item name="BakedBeansCan" chance="0.10" />
+        <cargo chance="1.00">
+            <item name="BrassKnuckles_Shiny" chance="0.5"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="Lard" chance="0.25"/>
+            <item name="Pot" chance="0.50"/>
+            <item name="FryingPan" chance="0.25"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="PetrolLighter" chance="0.50"/>
+            <item name="Matchbox" chance="0.25"/>
+            <item name="PortableGasStove" chance="0.25"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="Raincoat_Black" chance="0.50"/>
+            <item name="HuntingJacket_Winter" chance="0.50"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="Canteen" chance="1.00"/>
+            <item name="WaterBottle" chance="1.00"/>
+            <item name="PurificationTablets" chance="0.50"/>
+            <item name="CanisterGasoline" chance="0.10"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="Rice" chance="0.25"/>
+            <item name="BoxCerealCrunchin" chance="0.25"/>
+            <item name="Marmalade" chance="0.25"/>
+            <item name="PowderedMilk" chance="0.25"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="SodaCan_Cola" chance="0.25"/>
+            <item name="SodaCan_Spite" chance="0.50"/>
+            <item name="SodaCan_Pipsi" chance="0.25"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="CanOpener" chance="1.00"/>
+            <item name="PeachesCan" chance="0.25"/>
+            <item name="SardinesCan" chance="0.25"/>
+            <item name="SpaghettiCan" chance="0.25"/>
+            <item name="TacticalBaconCan" chance="0.25"/>
+            <item name="TunaCan" chance="0.25"/>
+            <item name="BakedBeansCan" chance="0.25"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="Zucchini" chance="0.50"/>
+            <item name="Apple" chance="0.50"/>
+        </cargo>
+        <cargo chance="1.00">
+            <item name="LeatherKnifeSheath" chance="0.20"/>
+            <item name="KitchenKnife" chance="0.20"/>
+            <item name="CombatKnife" chance="0.20"/>
+            <item name="HuntingKnife" chance="0.20"/>
+            <item name="SteakKnife" chance="0.20"/>
+            <item name="Whetstone" chance="0.20"/>
+        </cargo>
 	</cargo>
 	<cargo chance="0.5" name="foodCity">		<!--same as the one above - just preparing -->
 		<item name="SodaCan_Cola" chance="0.05" />
@@ -48,7 +95,7 @@
 		<item name="PurificationTablets" chance="0.05" />
 		<item name="CharcoalTablets" chance="0.05" />
 	</cargo>
-	<cargo chance="0.2" name="toolsVillage">
+	<cargo chance="0.75" name="toolsVillage">
 		<item name="DuctTape" chance="0.07" />
 		<item name="Battery9V" chance="0.07" />
 		<item name="Matchbox" chance="0.07" />
@@ -57,10 +104,58 @@
 		<item name="Rope" chance="0.07" />
 		<item name="Rag" chance="0.07" />
 		<item name="Flashlight" chance="0.07" />
-        <item name="GhillieSuit_Mossy" chance="0.50">
-        <item name="GhillieSuit_Tan" chance="0.50">
+        <item name="Machete" chance="0.05" />
+        <item name="MediumGasCanister" chance="0.05" />
+        <item name="Megaphone" chance="0.05" />
+        <item name="MetalWire" chance="0.05" />
+        <item name="NailBox" chance="0.05" />
+        <item name="OrienteeringCompass" chance="0.05" />
+        <item name="PainkillerTablets" chance="0.05" />
+        <item name="PersonalRadio" chance="0.05" />
+        <item name="Pickaxe" chance="0.05" />
+        <item name="Pipe" chance="0.05" />
+        <item name="Pliers" chance="0.05" />
+        <item name="PortableGasLamp" chance="0.05" />
+        <item name="Pot" chance="0.05" />
+        <item name="Rag" chance="0.05" />
+        <item name="Roadflare" chance="0.05" />
+        <item name="Rope" chance="0.05" />
+        <item name="Screwdriver" chance="0.05" />
+        <item name="SewingKit" chance="0.05" />
+        <item name="Shovel" chance="0.05" />
+        <item name="SledgeHammer" chance="0.05" />
+        <item name="StunBaton" chance="0.05" />
+        <item name="TetracyclineAntibiotics" chance="0.05" />
+        <item name="Thermometer" chance="0.05" />
+        <item name="WeaponCleaningKit" chance="0.05" />
+        <item name="Whetstone" chance="0.05" />
+        <item name="WoodAxe" chance="0.05" />
+        <item name="Wrench" chance="0.05" />
+        <item name="XmasLights" chance="0.05" />
+        <item name="Bandage" chance="0.05" />
+        <item name="Battery9V" chance="0.05" />
+        <item name="BearTrap" chance="0.05" />
+        <item name="Binoculars" chance="0.05" />
+        <item name="CanOpener" chance="0.05" />
+        <item name="CanisterGasoline" chance="0.05" />
+        <item name="Canteen" chance="0.05" />
+        <item name="CattleProd" chance="0.05" />
+        <item name="ChernarusMap" chance="0.05" />
+        <item name="Crowbar" chance="0.05" />
+        <item name="DisinfectantSpray" chance="0.05" />
+        <item name="ElectronicRepairKit" chance="0.05" />
+        <item name="FirefighterAxe" chance="0.05" />
+        <item name="FirstAidKit" chance="0.05" />
+        <item name="FryingPan" chance="0.05" />
+        <item name="Hacksaw" chance="0.05" />
+        <item name="Hammer" chance="0.05" />
+        <item name="HandSaw" chance="0.05" />
+        <item name="Handcuffs" chance="0.05" />
+        <item name="LeatherSewingKit" chance="0.05" />
+        <item name="Lockpick" chance="0.05" />
+        <item name="Machete" chance="0.05" />
 	</cargo>
-	<cargo chance="0.2" name="toolsCity">		<!--same as the one above - just preparing -->
+	<cargo chance="0.5" name="toolsCity">		<!--same as the one above - just preparing -->
 		<item name="DuctTape" chance="0.07" />
 		<item name="Battery9V" chance="0.07" />
 		<item name="Matchbox" chance="0.07" />
@@ -69,6 +164,56 @@
 		<item name="Rope" chance="0.07" />
 		<item name="Rag" chance="0.07" />
 		<item name="Flashlight" chance="0.07" />
+        <item name="Machete" chance="0.05" />
+        <item name="MediumGasCanister" chance="0.05" />
+        <item name="Megaphone" chance="0.05" />
+        <item name="MetalWire" chance="0.05" />
+        <item name="NailBox" chance="0.05" />
+        <item name="OrienteeringCompass" chance="0.05" />
+        <item name="PainkillerTablets" chance="0.05" />
+        <item name="PersonalRadio" chance="0.05" />
+        <item name="Pickaxe" chance="0.05" />
+        <item name="Pipe" chance="0.05" />
+        <item name="Pliers" chance="0.05" />
+        <item name="PortableGasLamp" chance="0.05" />
+        <item name="Pot" chance="0.05" />
+        <item name="Rag" chance="0.05" />
+        <item name="Roadflare" chance="0.05" />
+        <item name="Rope" chance="0.05" />
+        <item name="Screwdriver" chance="0.05" />
+        <item name="SewingKit" chance="0.05" />
+        <item name="Shovel" chance="0.05" />
+        <item name="SledgeHammer" chance="0.05" />
+        <item name="StunBaton" chance="0.05" />
+        <item name="TetracyclineAntibiotics" chance="0.05" />
+        <item name="Thermometer" chance="0.05" />
+        <item name="WeaponCleaningKit" chance="0.05" />
+        <item name="Whetstone" chance="0.05" />
+        <item name="WoodAxe" chance="0.05" />
+        <item name="Wrench" chance="0.05" />
+        <item name="XmasLights" chance="0.05" />
+        <item name="Bandage" chance="0.05" />
+        <item name="Battery9V" chance="0.05" />
+        <item name="BearTrap" chance="0.05" />
+        <item name="Binoculars" chance="0.05" />
+        <item name="CanOpener" chance="0.05" />
+        <item name="CanisterGasoline" chance="0.05" />
+        <item name="Canteen" chance="0.05" />
+        <item name="CattleProd" chance="0.05" />
+        <item name="ChernarusMap" chance="0.05" />
+        <item name="Crowbar" chance="0.05" />
+        <item name="DisinfectantSpray" chance="0.05" />
+        <item name="ElectronicRepairKit" chance="0.05" />
+        <item name="FirefighterAxe" chance="0.05" />
+        <item name="FirstAidKit" chance="0.05" />
+        <item name="FryingPan" chance="0.05" />
+        <item name="Hacksaw" chance="0.05" />
+        <item name="Hammer" chance="0.05" />
+        <item name="HandSaw" chance="0.05" />
+        <item name="Handcuffs" chance="0.05" />
+        <item name="LeatherSewingKit" chance="0.05" />
+        <item name="Lockpick" chance="0.05" />
+        <item name="Machete" chance="0.05" />
 	</cargo>
 	<cargo chance="0.35" name="toolsMedic">
 		<item name="SalineBag" chance="0.05" />
@@ -141,8 +286,8 @@
 		<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
 	</cargo>
 	<cargo chance="0.5" name="mixVillage">
-        <item name="GhillieSuit_Mossy" chance="0.50">
-        <item name="GhillieSuit_Tan" chance="0.50">
+        <item name="GhillieSuit_Mossy" chance="0.50"/>
+        <item name="GhillieSuit_Tan" chance="0.50"/>
      	<item name="AmmoBox_357_20Rnd" chance="0.20" />
         <item name="Magnum" chance="0.20" />
 		<item name="DuctTape" chance="0.07" />
@@ -170,10 +315,36 @@
 		<item name="PeachesCan" chance="0.10" />
 		<item name="SpaghettiCan" chance="0.09" />
 		<item name="BakedBeansCan" chance="0.10" />
+ 		<cargo chance="1.00">
+            <item name="GhillieAtt_Woodland" chance="0.5"/>
+            <item name="GhillieBushrag_Woodland" chance="0.5"/>
+            <item name="GhillieHood_Woodland" chance="0.5"/>
+            <item name="GhillieSuit_Woodland" chance="0.5"/>
+            <item name="GhillieTop_Woodland" chance="0.5"/>
+         </cargo>
+         <cargo chance="1.00">
+            <item name="SVD" chance="0.5"/>
+            <item name="Mag_SVD_10Rnd" chance="0.5"/>
+            <item name="PSO11Optic" chance="0.5"/>
+            <item name="AmmoBox_762x54Tracer_20Rnd" chance="0.5"/>
+            <item name="AmmoBox_762x54_20Rnd" chance="0.5"/>
+         </cargo>
+         <cargo chance="0.25">
+            <item name="M18SmokeGrenade_Green" chance="0.5"/>
+            <item name="LandMineTrap" chance="0.5"/>
+            <item name="FlashGrenade" chance="0.5"/>
+            <item name="M67Grenade" chance="0.5"/>
+         </cargo>
+         <cargo chance="1.00">
+            <item name="Rice" chance="0.25"/>
+            <item name="BoxCerealCrunchin" chance="0.25"/>
+            <item name="Marmalade" chance="0.25"/>
+            <item name="PowderedMilk" chance="0.25"/>
+        </cargo>
 	</cargo>
 	<cargo chance="0.5" name="mixHunter">
-        <item name="GhillieSuit_Mossy" chance="0.50">
-        <item name="GhillieSuit_Tan" chance="0.50">
+        <item name="GhillieSuit_Mossy" chance="0.50"/>
+        <item name="GhillieSuit_Tan" chance="0.50"/>
 		<item name="Paper" chance="0.1" />
 		<item name="Flashlight" chance="0.1" />
 		<item name="Matchbox" chance="0.07" />

@@ -564,7 +564,7 @@
         <children/>
     </event>
     <event name="StaticChristmasTree">
-        <nominal>13</nominal>
+        <nominal>14</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>86400</lifetime>
@@ -577,7 +577,7 @@
         <limit>child</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="13" min="13" type="ChristmasTree"/>
+            <child lootmax="0" lootmin="0" max="14" min="14" type="ChristmasTree"/>
         </children>
     </event>
     <event name="StaticFridgeTest">
