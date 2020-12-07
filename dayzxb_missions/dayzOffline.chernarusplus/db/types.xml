@@ -6149,10 +6149,10 @@
     <usage name="Military" />
   </type>
   <type name="GiftBox_Large_1">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6165,7 +6165,7 @@
     <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6176,10 +6176,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Large_3">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6189,10 +6189,10 @@
     <usage name="Town" />
   </type>
   <type name="GiftBox_Large_4">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6202,10 +6202,10 @@
     <usage name="Town" />
   </type>
   <type name="GiftBox_Medium_1">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6216,10 +6216,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Medium_2">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6230,10 +6230,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Medium_3">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6244,10 +6244,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Medium_4">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6258,10 +6258,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Small_1">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6272,10 +6272,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Small_2">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6286,10 +6286,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Small_3">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -6300,10 +6300,10 @@
     <usage name="Village" />
   </type>
   <type name="GiftBox_Small_4">
-    <nominal>0</nominal>
+    <nominal>100</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
